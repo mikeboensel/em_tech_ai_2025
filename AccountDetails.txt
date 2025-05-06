@@ -1,1 +1,8 @@
-OPENAI_API_KEY=
+Please fill in the values below as you complete the Pre-Workshop Requirements.
+
+# OPENAI Details
+- API Key: 
+
+# Airtable Details
+- BaseID: 
+- API Key: 
